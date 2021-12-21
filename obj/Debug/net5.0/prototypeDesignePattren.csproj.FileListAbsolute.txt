@@ -1,0 +1,16 @@
+C:\Users\mjmde\Desktop\vs\testC#\prototypeDesignePattren\bin\Debug\net5.0\prototypeDesignePattren.exe
+C:\Users\mjmde\Desktop\vs\testC#\prototypeDesignePattren\bin\Debug\net5.0\prototypeDesignePattren.deps.json
+C:\Users\mjmde\Desktop\vs\testC#\prototypeDesignePattren\bin\Debug\net5.0\prototypeDesignePattren.runtimeconfig.json
+C:\Users\mjmde\Desktop\vs\testC#\prototypeDesignePattren\bin\Debug\net5.0\prototypeDesignePattren.runtimeconfig.dev.json
+C:\Users\mjmde\Desktop\vs\testC#\prototypeDesignePattren\bin\Debug\net5.0\prototypeDesignePattren.dll
+C:\Users\mjmde\Desktop\vs\testC#\prototypeDesignePattren\bin\Debug\net5.0\ref\prototypeDesignePattren.dll
+C:\Users\mjmde\Desktop\vs\testC#\prototypeDesignePattren\bin\Debug\net5.0\prototypeDesignePattren.pdb
+C:\Users\mjmde\Desktop\vs\testC#\prototypeDesignePattren\obj\Debug\net5.0\prototypeDesignePattren.csproj.AssemblyReference.cache
+C:\Users\mjmde\Desktop\vs\testC#\prototypeDesignePattren\obj\Debug\net5.0\prototypeDesignePattren.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mjmde\Desktop\vs\testC#\prototypeDesignePattren\obj\Debug\net5.0\prototypeDesignePattren.AssemblyInfoInputs.cache
+C:\Users\mjmde\Desktop\vs\testC#\prototypeDesignePattren\obj\Debug\net5.0\prototypeDesignePattren.AssemblyInfo.cs
+C:\Users\mjmde\Desktop\vs\testC#\prototypeDesignePattren\obj\Debug\net5.0\prototypeDesignePattren.csproj.CoreCompileInputs.cache
+C:\Users\mjmde\Desktop\vs\testC#\prototypeDesignePattren\obj\Debug\net5.0\prototypeDesignePattren.dll
+C:\Users\mjmde\Desktop\vs\testC#\prototypeDesignePattren\obj\Debug\net5.0\ref\prototypeDesignePattren.dll
+C:\Users\mjmde\Desktop\vs\testC#\prototypeDesignePattren\obj\Debug\net5.0\prototypeDesignePattren.pdb
+C:\Users\mjmde\Desktop\vs\testC#\prototypeDesignePattren\obj\Debug\net5.0\prototypeDesignePattren.genruntimeconfig.cache
